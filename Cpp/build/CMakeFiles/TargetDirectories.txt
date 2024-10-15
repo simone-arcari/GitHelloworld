@@ -1,0 +1,3 @@
+/home/simo/Documents/GitHelloworld/Cpp/build/CMakeFiles/helloworld.dir
+/home/simo/Documents/GitHelloworld/Cpp/build/CMakeFiles/edit_cache.dir
+/home/simo/Documents/GitHelloworld/Cpp/build/CMakeFiles/rebuild_cache.dir
