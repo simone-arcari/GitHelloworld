@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+888ba2bd2edd7e603aee57e76278fc10 CMakeFiles/MyJavaProject
+23dd991c696b695d3420662731f6b3b7 CMakeFiles/MyJavaProject.dir/java_class_filelist
+7f292d3560befcc4edd2ac1f5be32517 CMakeFiles/MyJavaProject.dir/java_compiled_MyJavaProject
+704fbdd8ecc340ca2a3fd472ad8e4f3b MyJavaProject.jar
