@@ -1,0 +1,3 @@
+/home/simo/Documents/GitHelloworld/java/build/CMakeFiles/MyJavaProject.dir
+/home/simo/Documents/GitHelloworld/java/build/CMakeFiles/edit_cache.dir
+/home/simo/Documents/GitHelloworld/java/build/CMakeFiles/rebuild_cache.dir
