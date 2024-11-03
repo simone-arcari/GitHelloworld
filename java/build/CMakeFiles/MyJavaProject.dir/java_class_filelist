@@ -1,1 +1,6 @@
-HelloWorld.class
+garage/Garage.class
+garage/MainGarage.class
+veicoli/Automobile.class
+veicoli/Furgone.class
+veicoli/Motoclicletta.class
+veicoli/VeicoloAMotore.class
